@@ -1,0 +1,34 @@
+C:\Repos\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Repos\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Repos\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Repos\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Repos\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Repos\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

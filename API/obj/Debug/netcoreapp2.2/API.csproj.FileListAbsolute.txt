@@ -1,0 +1,67 @@
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Repos\Reactivities\API\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Repos\Reactivities\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\API\obj\Debug\netcoreapp2.2\API.pdb

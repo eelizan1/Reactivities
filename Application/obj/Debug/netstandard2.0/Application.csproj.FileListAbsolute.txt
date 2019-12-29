@@ -1,0 +1,40 @@
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Repos\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Repos\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Enrico Elizan\Documents\ReactJS\Social Network\Social-Network-\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Enrico Elizan\Documents\Training\TypeScript\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb

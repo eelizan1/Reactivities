@@ -1,0 +1,51 @@
+{
+	"Query Handler": {
+		"prefix": "qHandler",
+		"body": [
+		  "        public class Query : IRequest<${1:ReturnObject}> {} ",
+		  "        public class Handler : IRequestHandler<Query, ${1:ReturnObject}>",
+		  "        {",
+		  "            private readonly DataContext _context;",
+		  "            public Handler(DataContext context)",
+		  "            {",
+		  "                _context = context; ",
+		  "            }",
+		  "",
+		  "            public async Task<${1:ReturnObject}> Handle(Query request, CancellationToken cancellationToken)",
+		  "            {",
+		  "                // Handler logic goes here",
+		  "            }",
+		  "        };  "
+		],
+		"description": "Query Handler"
+	  },
+	  "Command Handler": {
+		"prefix": "chandler",
+		"body": [
+		  " // Command object ",
+		  "        public class Command : IRequest",
+		  "        {",
+		  "        }",
+		  "",
+		  "        public class Handler : IRequestHandler<Command>",
+		  "        {",
+		  "            private readonly DataContext _context; ",
+		  "            public Handler(DataContext context)",
+		  "            {",
+		  "                _context = context; ",
+		  "            }",
+		  "            public async Task<Unit> Handle(Command request, CancellationToken cancellationToken) ",
+		  "            {",
+		  "               // Handler Logic",
+		  "                // number of changes saved to db so if greter than 0, then something was saved therefore success",
+		  "                var success = await _context.SaveChangesAsync() > 0; ",
+		  "                // return 200 ok response ",
+		  "                if (success) return Unit.Value; ",
+		  "                // if not successful ",
+		  "                throw new Exception(\"Problem saving changes\");",
+		  "            }",
+		  "        }"
+		],
+		"description": "Command Handler"
+	  }
+}
